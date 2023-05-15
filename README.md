@@ -1,2 +1,2 @@
-# CS166Team8
+# CS166-Team8
 ## Fake Review Detection 
